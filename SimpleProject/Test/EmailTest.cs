@@ -12,10 +12,10 @@ namespace SimpleProject.Test
 
         IWebDriver driver;
         private const string BaseUrl = "http://www.gmail.com";
-        private readonly string User = "testuserservemn@gmail.com";
-        private readonly string Pass = "TestUserServeMNPassword";
+        private readonly string User = "";
+        private readonly string Pass = "";
 
-        private readonly string To = "testuserservemn@gmail.com";
+        private readonly string To = "";
         private readonly string Subject = "Test Email";
         private readonly string Message = "The message of the test email";
 
